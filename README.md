@@ -1,2 +1,2 @@
 # ProductionServicesAnalytics
-Program for analysis of Production Services
+Analysis of Production Services shifts for Virginia Tech.
